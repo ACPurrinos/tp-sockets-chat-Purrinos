@@ -1,5 +1,5 @@
 # -------------------------------------------------------
-# PFOgit init 1:  Implementación de un Chat Básico Cliente-Servidor
+# PFO1:  Implementación de un Chat Básico Cliente-Servidor
 # Alumno: Purriños Andrea
 # IFTS 29 - Programación sobre Redes
 # -------------------------------------------------------
